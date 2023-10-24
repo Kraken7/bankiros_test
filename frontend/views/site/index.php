@@ -37,8 +37,7 @@ $this->title = 'Конвертер валют ЦБ РФ';
                 <div class="xxx-input-converter ">
                     <input data-input-converter="" data-cur-name="BYN" data-cur-multiplier="0.034115371362875" type="number" inputmode="decimal" class="xxx-input-converter__input xxx-full-width">
                     <span class="xxx-input-converter__before-text"> BYN </span>
-                    <span class="xxx-input-converter__close" data-input-converter-clear="">
-                        <i class="ic-close_icon"></i>&times</span>
+                    <span class="xxx-input-converter__close" data-input-converter-clear="">&times</span>
                     <img class="xxx-input-converter__img" src="images/belarus.svg" alt="BYN-icon">
                 </div>
             </div>
