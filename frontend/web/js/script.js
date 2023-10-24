@@ -1,12 +1,4 @@
 $(document).ready(function () {
-    $('.xxx-input-converter__input').focus(function () {
-        $(this).siblings('.xxx-input-converter__close').show();
-    });
-
-    $('.xxx-input-converter__input').blur(function () {
-        $(this).siblings('.xxx-input-converter__close').hide();
-    });
-
     $('.xxx-input-converter__close').click(function () {
         $('.xxx-input-converter__input').val(0);
     });

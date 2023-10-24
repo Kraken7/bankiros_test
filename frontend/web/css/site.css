@@ -11,5 +11,7 @@
     cursor: pointer;
     line-height: 14px;
     pointer-events: unset;
-    display: none;
+}
+.xxx-input-converter__close:hover {
+    cursor: pointer;
 }
