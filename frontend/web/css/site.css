@@ -1,0 +1,15 @@
+.xxx-currency-grid__block {
+    margin: 20px auto;
+    max-width: 300px;
+}
+.xxx-input-converter__input {
+    width: 100%;
+}
+.xxx-input-converter .xxx-input-converter__close {
+    color: #388ec3;
+    font-size: 22px;
+    cursor: pointer;
+    line-height: 14px;
+    pointer-events: unset;
+    display: none;
+}
